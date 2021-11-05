@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dropzone-field {
+  text-align: left;
+  margin: 1rem;
+}
+
+.submit {
+  background-color: #4caf50;
+}
+
+.submit:hover {
+  background-color: #66ca69;
+}
+
+.button {
+  border-radius: 5px;
+  padding: 1rem;
+  border: none;
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
+
+.dialog {
+  background-color: #3461c0;
+}
+
+.dialog:hover {
+  background-color: #4874d3;
+}
+
+.dialog:disabled {
+  background-color: gray;
+  cursor: default;
+}
